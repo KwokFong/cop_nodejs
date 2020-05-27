@@ -1,5 +1,5 @@
 // https://www.youtube.com/watch?v=4gu3Crh2DaQ
-'use strict'
+'use strict';
 
 let daysInWeek = 7;
 
