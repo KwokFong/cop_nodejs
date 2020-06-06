@@ -5,8 +5,8 @@ let text = 'cat';
 
 console.log('text =', text, "\n");
 
-console.log("text == 'cat'", text == 'cat');        // Equality
-console.log("text === 'cat'", text === 'cat');      // Identity; Preferred
+console.log("text == 'cat'", text == 'cat');        // Equality; Do Auto Conversion
+console.log("text === 'cat'", text === 'cat');      // Identity; Preferred; Stricter; No Conversion
 
 console.log("text != 'cat'", text != 'cat');
 console.log("text !== 'cat'", text !== 'cat');
